@@ -7,3 +7,4 @@ protobuf3-to-dict>=0.1.4
 future
 six
 pycrypt>=0.7.1
+git+https://github.com/ametya/pgoapi.git@develop#egg=pgoapi
